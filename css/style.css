@@ -1,0 +1,103 @@
+.c_col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  border: 5px solid;
+  border-radius: 5px;
+  background-color: tomato;
+  text-align: center;
+}
+
+/* scroll number */
+.scroll_con li {
+  margin-left: 10px;
+  float: left;
+  height: 100px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  background-color: #222;
+  border-radius: 3px;
+}
+
+/* counter-2 */
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  /* flex-wrap: wrap; */
+}
+.c_counter2 {
+  padding: 20px;
+  background-color: #000;
+  color: #fff;
+  width: 150px;
+  border: 3px solid;
+  border-radius: 10px;
+}
+.c_counter2 h3 {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+/* wow animation strt */
+.wow_col {
+  margin: 30px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 150px;
+  background-color:tomato;
+}
+.wow_col h1 {
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+/* wow animation end */
+
+/* wow animation-2 strt */
+.wow_col-2 {
+  margin: 20px 0;
+  height: 250px;
+  border: 10px solid black;
+  border-radius: 20px;
+}
+.wow_col-2 h1 {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+/* common css for all wow div */
+.cmn_wow {
+  height: 232px;
+  border-radius: 10px;
+}
+/* all wow div bg color */
+.frst {
+  background-color: aqua;
+}
+.secnd {
+  background-color: rgba(255, 213, 0, 0.53);
+}
+.three {
+  background-color: rgb(0, 128, 43);
+}
+.four {
+  background-color: rgb(0, 28, 128);
+}
+.five {
+  background-color: rgb(113, 0, 179);
+}
+.six {
+  background-color: rgb(199, 7, 167);
+}
+/* wow animation-2 end */
+
+/* aos animation strt */
+.aos_col {
+  margin: 20px 0 20px;
+}
+/* aos animation end */
