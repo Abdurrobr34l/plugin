@@ -1,2 +1,2 @@
 # plugin
-[LINK] https://abdurrobr34l.github.io/plugin/
+<a href="https://abdurrobr34l.github.io/plugin/">DEMO</a>
